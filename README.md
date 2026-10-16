@@ -824,6 +824,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Tropy](https://tropy.org/) - Research Photo Management. [![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
 * [PicGo](https://github.com/Molunerfinn/PicGo) - Support for common cdn image hosting tool.  [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - Export icons for multi-platform[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
+* [TypeTray](https://typetray.plkv.works) - Font viewer that reads TTF, OTF, TTC, dfont and WOFF2 folders without installing them, with variable axes, stylistic sets, overlay comparison and duplicate detection. ![Native App][Native Icon]
 * [uPic](https://github.com/gee1k/uPic) - macOS native app, powerful terse image hosting client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
 * [Zipic](https://zipic.app/) - Batch image compression tool with presets and automation.
 
@@ -1291,6 +1292,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
+* [Anclave](https://anclave.plkv.works) - Panel in the MacBook notch with the current track, the next meeting, Reminders and Things tasks, clipboard history, a file shelf, screenshots, and a line when a Claude Code or Codex turn finishes. ![Native App][Native Icon]
 * [Anvil](https://anvilformac.com/) - Tool for serving local static sites and Rack apps with simple URLs. ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.

@@ -826,6 +826,7 @@ Awesome Mac
 * [Tropy](https://tropy.org/) - 研究写真管理。 [![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 一般的なCDN画像ホスティングをサポートするツール。 [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - マルチプラットフォーム用のアイコンをエクスポート[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
+* [TypeTray](https://typetray.plkv.works) - TTF、OTF、TTC、dfont、WOFF2のフォントフォルダをインストールせずに読み込み、可変軸、スタイルセット、重ね合わせ比較、重複検出に対応するフォントビューア。 ![Native App][Native Icon]
 * [uPic](https://github.com/gee1k/uPic) - macOSネイティブの強力で簡潔な画像ホスティングクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
 * [Zipic](https://zipic.app/) - プリセットと自動化に対応した一括画像圧縮ツール。
 
@@ -1289,6 +1290,7 @@ Awesome Mac
 
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBookのノッチにClaude CodeとCodexのセッション状態を表示し、選択した長時間タスクを自動再開できるツール。 [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - AirPodsのモーションセンサーを使って頭の姿勢を通知し、頭のジェスチャーにショートカットを割り当てられるメニューバーアプリ。 [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
+* [Anclave](https://anclave.plkv.works) - MacBookのノッチに再生中の曲、次の会議、RemindersとThingsのタスク、クリップボード履歴、ファイル置き場、スクリーンショットを表示し、Claude CodeやCodexのターン終了を知らせるパネル。 ![Native App][Native Icon]
 * [Anvil](https://anvilformac.com/) - ローカルの静的サイトやRackアプリを手軽に公開できるツール。 ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - ノッチを、メディア操作・ライブアクティビティ・クイックユーティリティをまとめたDynamic Island風ハブに変える。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Macのメニューバーアイコンを整理または非表示。

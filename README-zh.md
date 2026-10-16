@@ -597,6 +597,7 @@ Awesome Mac
 * [CompressO](https://github.com/codeforreal1/compressO) - 一款用于压缩视频和图片体积的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
 * [Tropy](https://tropy.org/) - 照片档案管理工具。[![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
+* [TypeTray](https://typetray.plkv.works) - 无需安装即可直接读取 TTF、OTF、TTC、dfont 和 WOFF2 字体文件夹的字体查看器，支持可变轴、样式集、叠加对比和重复字体检测。 ![Native App][Native Icon]
 * [uPic](https://github.com/gee1k/uPic) - macOS 原生应用，功能强大且简洁的图床客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
 * [Zipic](https://zipic.app/) - 支持预设和自动化的批量图片压缩工具。
 * [马克鳗](http://getmarkman.com/) - 高效的设计稿标注、测量工具。
@@ -1339,6 +1340,7 @@ Awesome Mac
 
 * [Agent Island](https://github.com/tristan666666/agent-island) - 将 MacBook 刘海变成 Claude Code 与 Codex 会话状态看板，并可自动续跑选定的长任务。 [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - 利用 AirPods 运动传感器提供头部姿态提醒和可自定义头部手势快捷操作的菜单栏应用。 [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
+* [Anclave](https://anclave.plkv.works) - 将 MacBook 刘海变成常用信息面板：正在播放、下一场会议、Reminders 与 Things 任务、剪贴板历史、文件暂存区、截图，以及 Claude Code 或 Codex 回合结束时的提示。 ![Native App][Native Icon]
 * [Anvil](https://anvilformac.com/) - 轻松托管本地静态网站和 Rack 应用的工具。 ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - 将刘海区域变成集媒体控制、实时活动和快捷工具于一体的动态面板。 [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标。

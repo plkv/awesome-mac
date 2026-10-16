@@ -657,6 +657,7 @@ Awesome Mac
 * [Pixpresso](https://getapps.cafe/app/pixpresso) - 자르기, 크기 조정, 주석, PNG·JPG·WebP·HEIC 변환을 지원하는 이미지 뷰어 겸 편집기. ![Freeware][Freeware Icon]
 * [RightFont](http://rightfontapp.com/) - 글꼴 관리 및 동기화 앱.
 * [Siliconed](https://gwenn-ha-dev.github.io/Siliconed/) - Swift와 Metal로 작성된 Apple 실리콘용 로컬 AI 이미지 생성 및 지시 기반 이미지 편집 오픈 소스 앱. [![Open-Source Software][OSS Icon]](https://github.com/gwenn-ha-dev/Siliconed) ![Freeware][Freeware Icon]
+* [TypeTray](https://typetray.plkv.works) - TTF, OTF, TTC, dfont, WOFF2 글꼴 폴더를 설치 없이 읽어 가변 축, 스타일 세트, 겹쳐 보기 비교, 중복 검출을 지원하는 글꼴 뷰어. ![Native App][Native Icon]
 * [Zipic](https://zipic.app/) - 프리셋과 자동화를 지원하는 일괄 이미지 압축 도구.
 
 ## AI 도구
@@ -986,6 +987,7 @@ Awesome Mac
 * [Agent Island](https://github.com/tristan666666/agent-island) - MacBook 노치에서 Claude Code와 Codex 세션 상태를 보여주고 선택한 장시간 작업을 자동으로 이어서 실행하는 도구. [![Open-Source Software][OSS Icon]](https://github.com/tristan666666/agent-island) ![Freeware][Freeware Icon]
 * [AirPoise](https://airpoise.vercel.app/) - AirPods 모션 센서로 머리 자세를 알려주고 머리 제스처에 단축 동작을 지정할 수 있는 메뉴 바 앱. [![Open-Source Software][OSS Icon]](https://github.com/jaskirat1616/AirPoise) ![Freeware][Freeware Icon]
 * [AirStats](https://airstats.app) - CPU, GPU, 메모리, 네트워크, 디스크, 배터리, 온도를 보여주고 데스크톱 위젯도 제공하는 가벼운 메뉴 바 시스템 모니터. [![Open-Source Software][OSS Icon]](https://github.com/byrencheema/airstats) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [Anclave](https://anclave.plkv.works) - MacBook 노치에 재생 중인 곡, 다음 회의, Reminders와 Things 작업, 클립보드 기록, 파일 보관함, 스크린샷을 보여주고 Claude Code나 Codex 턴이 끝나면 알려주는 패널. ![Native App][Native Icon]
 * [Anvil](https://anvilformac.com/) - 로컬 정적 사이트와 Rack 앱을 손쉽게 띄우는 도구. ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) - 노치를 미디어 제어, 라이브 활동, 빠른 유틸리티를 담은 다이내믹 아일랜드형 허브로 바꿔준다. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com/) - 메뉴 바 아이콘 정리 및 관리.
