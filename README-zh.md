@@ -597,6 +597,7 @@ Awesome Mac
 * [CompressO](https://github.com/codeforreal1/compressO) - 一款用于压缩视频和图片体积的开源工具。 [![Open-Source Software][OSS Icon]](https://github.com/codeforreal1/compressO) ![Freeware][Freeware Icon]
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 图片压缩专用开源工具。[![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
 * [Tropy](https://tropy.org/) - 照片档案管理工具。[![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
+* [TypeTray](https://typetray.plkv.works) - 无需安装即可直接读取 TTF、OTF、TTC、dfont 和 WOFF2 字体文件夹的字体查看器，支持可变轴、样式集、叠加对比和重复字体检测。 ![Native App][Native Icon]
 * [uPic](https://github.com/gee1k/uPic) - macOS 原生应用，功能强大且简洁的图床客户端。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
 * [Zipic](https://zipic.app/) - 支持预设和自动化的批量图片压缩工具。
 * [马克鳗](http://getmarkman.com/) - 高效的设计稿标注、测量工具。

@@ -824,6 +824,7 @@ Awesome Mac
 * [svgus](http://www.svgs.us/) - SVGの整理、クリーン、変換ツール。 [![App Store][app-store Icon]](https://apps.apple.com/app/svgsus/id1106867065?platform=mac)
 * [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - 画像を圧縮するオープンソースツール。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kyleduo/TinyPNG4Mac)
 * [Tropy](https://tropy.org/) - 研究写真管理。 [![Open-Source Software][OSS Icon]](https://github.com/tropy/tropy) ![Freeware][Freeware Icon]
+* [TypeTray](https://typetray.plkv.works) - TTF、OTF、TTC、dfont、WOFF2のフォントフォルダをインストールせずに読み込み、可変軸、スタイルセット、重ね合わせ比較、重複検出に対応するフォントビューア。 ![Native App][Native Icon]
 * [PicGo](https://github.com/Molunerfinn/PicGo) - 一般的なCDN画像ホスティングをサポートするツール。 [![Open-Source Software][OSS Icon]](https://github.com/Molunerfinn/PicGo)
 * [AppIconBuilder](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac) - マルチプラットフォーム用のアイコンをエクスポート[![App Store][app-store Icon]](https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac)
 * [uPic](https://github.com/gee1k/uPic) - macOSネイティブの強力で簡潔な画像ホスティングクライアント。 [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gee1k/uPic)
